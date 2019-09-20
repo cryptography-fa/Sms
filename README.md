@@ -6,6 +6,7 @@
 
 pkg install python python2 php git
 git clone https://github.com/IyXerXez72/Sms
+
 cd sms
 
 sh index.sh
